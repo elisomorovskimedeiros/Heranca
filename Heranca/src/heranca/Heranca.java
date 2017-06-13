@@ -7,7 +7,7 @@ package heranca;
 
 /**
  *
- * @author eli
+ * Java doc para teste no git
  */
 public class Heranca {
 
