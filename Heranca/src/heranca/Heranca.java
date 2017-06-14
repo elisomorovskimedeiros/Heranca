@@ -12,7 +12,7 @@ package heranca;
 public class Heranca {
 
     /**
-     * @param args the command line arguments
+     * Colocando java docs na classe main
      */
     public static void main(String[] args) {
         // TODO code application logic here
