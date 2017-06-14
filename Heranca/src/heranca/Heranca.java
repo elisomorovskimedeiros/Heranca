@@ -16,6 +16,11 @@ public class Heranca {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.out.println("Vou exibir o nome do ornitorrinco");
+        
+        
+        
         	Animal a1 = new Animal("Orni","Ornitorrinco",10);
 		Mamifero m1 = new Mamifero("Golfinho","Golfinho");
 		a1.setNome("Orn");
