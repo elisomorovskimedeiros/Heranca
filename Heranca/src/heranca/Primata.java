@@ -8,7 +8,7 @@ package heranca;
 
 /**
  *
- * @author eli
+ * Colocando mensagens de java doc na classe Primata
  */
 public class Primata extends Mamifero {
 	public Primata(String nome, String especie, int idade){
