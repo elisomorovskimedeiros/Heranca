@@ -19,6 +19,8 @@ public class Heranca {
         
         System.out.println("Vou exibir o nome do ornitorrinco");
         
+        System.out.println("Estou realizando a apresentação");
+        
         
         
         	Animal a1 = new Animal("Orni","Ornitorrinco",10);
